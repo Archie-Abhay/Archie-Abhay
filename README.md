@@ -12,7 +12,7 @@ Full-Stack Web & AI Developer. IT undergrad building practical solutions with No
 ![](https://streak-stats.demolab.com/?user=Archie-Abhay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Archie-Abhay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
